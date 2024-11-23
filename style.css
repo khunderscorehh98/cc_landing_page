@@ -1,0 +1,17 @@
+header {
+    background: #007bff;
+    color: white;
+    text-align: center;
+}
+
+#features .icon {
+    font-size: 2rem;
+    color: #007bff;
+}
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
